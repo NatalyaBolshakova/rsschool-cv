@@ -13,7 +13,7 @@ I worked with the corporate information system (ICAR) and the electronic documen
 
 * techical documentations: requirements, project designs, methods of acceptance testing;
 * accounting
-* SQL
+* SQL - simple queries
 * BPMN
 
 [Resume](https://togliatti.hh.ru/resume/09b59a1bff063c83f80039ed1f336836795446)
