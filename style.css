@@ -1,0 +1,48 @@
+.body {     
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: large;
+    color: rgb(38, 38, 85);           
+}   
+
+.text {
+    margin-left: 30px;
+    font-size: 120%;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;    
+    background-color: rgb(217, 224, 250);    
+}
+
+.quote1 {
+    text-align: center;
+    padding: 10px;
+    font-style: italic;
+    
+}
+
+.h3 {    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#text {
+    margin-left: 30px;
+}
+
+.hobby {
+    font-style: italic;    
+       
+}
+
+#leftcol {
+    text-align: right;
+    padding: 30px;
+}
+
+#rightcol {
+    text-align: left;
+    padding: 30px;
+}
+
